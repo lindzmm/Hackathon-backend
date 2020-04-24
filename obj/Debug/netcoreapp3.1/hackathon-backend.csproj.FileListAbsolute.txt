@@ -1,0 +1,13 @@
+C:\Users\limorris\source\repos\hackathon-backend\bin\Debug\netcoreapp3.1\hackathon-backend.exe
+C:\Users\limorris\source\repos\hackathon-backend\bin\Debug\netcoreapp3.1\hackathon-backend.deps.json
+C:\Users\limorris\source\repos\hackathon-backend\bin\Debug\netcoreapp3.1\hackathon-backend.runtimeconfig.json
+C:\Users\limorris\source\repos\hackathon-backend\bin\Debug\netcoreapp3.1\hackathon-backend.runtimeconfig.dev.json
+C:\Users\limorris\source\repos\hackathon-backend\bin\Debug\netcoreapp3.1\hackathon-backend.dll
+C:\Users\limorris\source\repos\hackathon-backend\bin\Debug\netcoreapp3.1\hackathon-backend.pdb
+C:\Users\limorris\source\repos\hackathon-backend\obj\Debug\netcoreapp3.1\hackathon-backend.csprojAssemblyReference.cache
+C:\Users\limorris\source\repos\hackathon-backend\obj\Debug\netcoreapp3.1\hackathon-backend.csproj.CoreCompileInputs.cache
+C:\Users\limorris\source\repos\hackathon-backend\obj\Debug\netcoreapp3.1\hackathon-backend.AssemblyInfoInputs.cache
+C:\Users\limorris\source\repos\hackathon-backend\obj\Debug\netcoreapp3.1\hackathon-backend.AssemblyInfo.cs
+C:\Users\limorris\source\repos\hackathon-backend\obj\Debug\netcoreapp3.1\hackathon-backend.dll
+C:\Users\limorris\source\repos\hackathon-backend\obj\Debug\netcoreapp3.1\hackathon-backend.pdb
+C:\Users\limorris\source\repos\hackathon-backend\obj\Debug\netcoreapp3.1\hackathon-backend.genruntimeconfig.cache
